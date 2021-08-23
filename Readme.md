@@ -6,7 +6,7 @@ Under a terminal, type :
 mv cchemiBinLinux64 cchemi
 chmod u+x cchemi
 
-How to user it
+How to use it
 ==============
 
 Download examples.tar.gz and type : tar -zxvf examples.tar.gz
