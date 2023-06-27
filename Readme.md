@@ -2,7 +2,7 @@ How to install it
 =================
 
 Download  cchemiBinLinux64 and  save it.\
-Under a terminal, type :\
+Under a terminal, type :
 ```console
 mv cchemiBinLinux64 cchemi
 chmod u+x cchemi
