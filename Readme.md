@@ -22,7 +22,10 @@ How to use it
 
 Download examples.tar.gz and type : tar -zxvf examples.tar.gz\
 Few example files  are given in "examples" directory.\
-To run cchemi, type : cchemi nameFile.ici\
+To run cchemi, type :\
+```console
+cchemi nameFile.ici
+```
 
 Manual
 ======
