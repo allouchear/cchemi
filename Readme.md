@@ -5,6 +5,14 @@ Download  cchemiBinLinux64 and  save it.
 Under a terminal, type :
 mv cchemiBinLinux64 cchemi
 chmod u+x cchemi
+To compile cchemi from source :
+dowanload CChemiSRC.zip
+unzip CChemiSRC.zip
+cd CChemiSRC
+cd cchemi
+./cleancchemi.sh
+./compcchemi.sh
+
 
 How to use it
 ==============
