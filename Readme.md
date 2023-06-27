@@ -4,17 +4,16 @@ How to install it
 Download  cchemiBinLinux64 and  save it.\
 Under a terminal, type :\
 ```console
-mv cchemiBinLinux64 cchemi\
-chmod u+x cchemi\
+mv cchemiBinLinux64 cchemi
+chmod u+x cchemi
 ```
 To compile cchemi from source :\
 dowanload CChemiSRC.zip\
 ```console
-unzip CChemiSRC.zip\
-cd CChemiSRC\
-cd cchemi\
-./cleancchemi.sh\
-./compcchemi.sh\
+unzip CChemiSRC.zip
+cd CChemiSRC/cchemi
+./cleancchemi.sh
+./compcchemi.sh
 ```
 
 
