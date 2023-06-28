@@ -23,7 +23,10 @@ cd CChemiSRC/cchemi
 
 ## How to use it
 
-Download examples.tar.gz and type : tar -zxvf examples.tar.gz\
+Download examples.tar.gz and type : 
+```console
+tar -zxvf examples.tar.gz
+```
 Few example files  are given in "examples" directory.\
 To run cchemi, type :
 ```console
