@@ -10,7 +10,7 @@ Under a terminal, type :
 mv cchemiBinLinux64 cchemi
 chmod u+x cchemi
 ```
-To compile cchemi from source :\
+To install cchemi from source :\
 dowanload **CChemISRC28Jun2023.zip**
 ```console
 unzip CChemiSRC.zip
