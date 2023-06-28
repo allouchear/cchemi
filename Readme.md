@@ -11,7 +11,7 @@ mv cchemiBinLinux64 cchemi
 chmod u+x cchemi
 ```
 To compile cchemi from source :\
-dowanload **CChemiSRC.zip**
+dowanload **CChemISRC28Jun2023.zip**
 ```console
 unzip CChemiSRC.zip
 cd CChemiSRC/cchemi
